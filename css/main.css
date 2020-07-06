@@ -1,0 +1,41 @@
+.btop{
+    border-top: 1px;
+    border-color:brown;
+    border-radius: 20px;
+}
+table{
+    padding-top: 10px;
+    width:80%;
+    
+   
+    
+
+}
+tr{
+    text-align: center;
+    
+}
+.btn{
+    margin-top: 40px;
+}
+.container{
+    align-self: center;
+    background-color: rgba(232, 232, 255, 0.561);
+    margin-top: 50px;
+    padding-top: 20px;
+    padding-left: 15%;
+}
+.top{
+    border-top: solid;
+}
+body{
+    align-content: center;
+}
+.left{
+    border-right: solid;
+}
+.right{
+    border-left:solid ;
+}.bottom{
+    border-bottom: solid;
+}
